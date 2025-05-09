@@ -10,7 +10,7 @@
             "description": "대시보드 화면",
             "status": 1,
             "menuOrder": 1,
-            "url" : "v1/bootfactory/",
+            
             "menuLevel" : 1,
             "parentId" : 1,
             "solutionType" : "CONTRABASS",
@@ -27,7 +27,7 @@
             "description": "기본 설정 메뉴 그룹",
             "status": 1,
             "menuOrder": 2,
-            "url" : "v1/bootfactory/",
+            
             "menuLevel" : 2,
             "parentId" : 2,
             "solutionType" : "CONTRABASS",
@@ -43,7 +43,7 @@
                     "description": "클러스터 관리 메뉴 그룹",
                     "status": 1,
                     "menuOrder": 1,
-                    "url" : "v1/bootfactory/",
+                    
                     "menuLevel" : 3,
                     "parentId" : 2,
                     "solutionType" : "CONTRABASS",
@@ -59,7 +59,7 @@
                             "description": "클러스터 설정 메뉴",
                             "status": 1,
                             "menuOrder": 1,
-                            "url" : "v1/bootfactory/",
+                            
                             "menuLevel" : 4,
                             "parentId" : 3,
                             "solutionType" : "CONTRABASS",
@@ -76,7 +76,7 @@
                             "description": "노드관리 메뉴",
                             "status": 1,
                             "menuOrder": 2,
-                            "url" : "v1/bootfactory/",
+                            
                             "menuLevel" : 4,
                             "parentId" : 3,
                             "solutionType" : "CONTRABASS",
@@ -92,7 +92,7 @@
                                   "description": "클러스터 설정 메뉴",
                                   "status": 1,
                                   "menuOrder": 1,
-                                  "url" : "v1/bootfactory/",
+                                  
                                   "menuLevel" : 5,
                                   "parentId" : 5,
                                   "solutionType" : "CONTRABASS",
@@ -115,7 +115,7 @@
             "description": "워크플로우 메뉴",
             "status": 1,
             "menuOrder": 3,
-            "url" : "v1/bootfactory/",
+            
             "menuLevel" : 1,
             "parentId" : 7,
             "solutionType" : "CONTRABASS",
@@ -132,7 +132,7 @@
             "description": "서비스 카탈로스 메뉴",
             "status": 0,
             "menuOrder": 4,
-            "url" : "v1/bootfactory/",
+            
             "menuLevel" : 1,
             "parentId" : 8,
             "solutionType" : "CONTRABASS",
