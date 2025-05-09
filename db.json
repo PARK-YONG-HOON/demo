@@ -9,7 +9,7 @@
             "nameEn": "Dashboard",
             "description": "대시보드 화면",
             "status": 1,
-            "menu": 1,
+            "menuorder": 1,
             "url" : "v1/bootfactory/",
             "menulevel" : 1,
             "parentId" : 1,
