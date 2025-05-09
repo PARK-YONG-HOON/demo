@@ -15,9 +15,9 @@
             "parentId" : 1,
             "solutionType" : "CONTRABASS",
             "createdBy" : "admin",
-            "createdAt" : "2025-05-08 07:04:21.000",
+            
             "updatedBy" : "admin",
-            "updatedAt" : "2025-05-08 07:04:21.000",
+            
             "children": []
         },
         {
@@ -32,9 +32,9 @@
             "parentId" : 2,
             "solutionType" : "CONTRABASS",
             "createdBy" : "admin",
-            "createdAt" : "2025-05-08 07:04:21.000",
+            
             "updatedBy" : "admin",
-            "updatedAt" : "2025-05-08 07:04:21.000",
+            
             "children": [
                 {
                     "id": 3,
@@ -48,9 +48,9 @@
                     "parentId" : 2,
                     "solutionType" : "CONTRABASS",
                     "createdBy" : "admin",
-                    "createdAt" : "2025-05-08 07:04:21.000",
+                    
                     "updatedBy" : "admin",
-                    "updatedAt" : "2025-05-08 07:04:21.000",
+                    
                     "children": [
                         {
                             "id": 4,
@@ -64,9 +64,9 @@
                             "parentId" : 3,
                             "solutionType" : "CONTRABASS",
                             "createdBy" : "admin",
-                            "createdAt" : "2025-05-08 07:04:21.000",
+                            
                             "updatedBy" : "admin",
-                            "updatedAt" : "2025-05-08 07:04:21.000",
+                            
                             "children": []
                         },
                         {
@@ -81,9 +81,9 @@
                             "parentId" : 3,
                             "solutionType" : "CONTRABASS",
                             "createdBy" : "admin",
-                            "createdAt" : "2025-05-08 07:04:21.000",
+                            
                             "updatedBy" : "admin",
-                            "updatedAt" : "2025-05-08 07:04:21.000",
+                            
                             "children": [
                               {
                                   "id": 6,
@@ -97,9 +97,9 @@
                                   "parentId" : 5,
                                   "solutionType" : "CONTRABASS",
                                   "createdBy" : "admin",
-                                  "createdAt" : "2025-05-08 07:04:21.000",
+                                  
                                   "updatedBy" : "admin",
-                                  "updatedAt" : "2025-05-08 07:04:21.000",
+                                  
                                   "children": []
                               }  
                             ]
@@ -120,9 +120,9 @@
             "parentId" : 7,
             "solutionType" : "CONTRABASS",
             "createdBy" : "admin",
-            "createdAt" : "2025-05-08 07:04:21.000",
+            
             "updatedBy" : "admin",
-            "updatedAt" : "2025-05-08 07:04:21.000",
+            
             "children": []
         },
         {
@@ -137,9 +137,9 @@
             "parentId" : 8,
             "solutionType" : "CONTRABASS",
             "createdBy" : "admin",
-            "createdAt" : "2025-05-08 07:04:21.000",
+            
             "updatedBy" : "admin",
-            "updatedAt" : "2025-05-08 07:04:21.000",
+            
             "children": []
         }
 
