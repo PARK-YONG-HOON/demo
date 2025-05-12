@@ -1,7 +1,4 @@
 {
-  "status": "OK",
-  "returnCode": 200,
-  "message": "조회 되었습니다.",
   "data": [
     {
       "id": 1,
@@ -107,6 +104,5 @@
       "createdBy": "admin",
       "updatedBy": "admin"
     }
-  ],
-  "timestamp": "2025-04-29T13:00:07.488761"
+  ]
 }
