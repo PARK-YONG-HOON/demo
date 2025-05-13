@@ -57,7 +57,7 @@
       "name": "노드 관리",
       "nameEn": "Node Management",
       "description": "노드관리 메뉴",
-      "status": 1,
+      "status": 0,
       "menuLevel": 3,
       "menuOrder": 2,
       "parentId": 3,
