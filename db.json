@@ -14,8 +14,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
-      "createdAt": "2025-05-14T08:22:34.050Z",
-      "updatedAt": "2025-05-14T08:22:34.050Z",
+      "createdAt": "2025-05-14 08:22:34",
+      "updatedAt": "2025-05-14 08:22:34",
       "children" : []
     },
     {
@@ -32,8 +32,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
-      "createdAt": "2025-05-14T08:22:34.050Z",
-      "updatedAt": "2025-05-14T08:22:34.050Z",
+      "createdAt": "2025-05-14 08:22:34",
+      "updatedAt": "2025-05-14 08:22:34",
       "children" : [
           {
             "id": 3,
@@ -49,8 +49,8 @@
             "solutionType": "CONTRABASS",
             "createdBy": "admin",
             "updatedBy": "admin",
-            "createdAt": "2025-05-14T08:22:34.050Z",
-            "updatedAt": "2025-05-14T08:22:34.050Z",
+            "createdAt": "2025-05-14 08:22:34",
+            "updatedAt": "2025-05-14 08:22:34",
             "children": [
                 {
                   "id": 4,
@@ -66,8 +66,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
-                  "createdAt": "2025-05-14T08:22:34.050Z",
-                  "updatedAt": "2025-05-14T08:22:34.050Z",
+                  "createdAt": "2025-05-14 08:22:34",
+                  "updatedAt": "2025-05-14 08:22:34",
                   "children":[]
                 },
                 {
@@ -84,8 +84,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
-                  "createdAt": "2025-05-14T08:22:34.050Z",
-                  "updatedAt": "2025-05-14T08:22:34.050Z",
+                  "createdAt": "2025-05-14 08:22:34",
+                  "updatedAt": "2025-05-14 08:22:34",
                   "children":[]
                 },
                 {
@@ -102,8 +102,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
-                  "createdAt": "2025-05-14T08:22:34.050Z",
-                  "updatedAt": "2025-05-14T08:22:34.050Z",
+                  "createdAt": "2025-05-14 08:22:34",
+                  "updatedAt": "2025-05-14 08:22:34",
                   "children":[]
                 }
             ]
@@ -125,8 +125,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
-      "createdAt": "2025-05-14T08:22:34.050Z",
-      "updatedAt": "2025-05-14T08:22:34.050Z",
+      "createdAt": "2025-05-14 08:22:34",
+      "updatedAt": "2025-05-14 08:22:34",
       "children" : []
     },
     {
@@ -143,8 +143,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
-      "createdAt": "2025-05-14T08:22:34.050Z",
-      "updatedAt": "2025-05-14T08:22:34.050Z",
+      "createdAt": "2025-05-14 08:22:34",
+      "updatedAt": "2025-05-14 08:22:34",
       "children" : []
     }
   ]
