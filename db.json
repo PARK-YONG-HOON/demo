@@ -14,6 +14,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
+      "createdAt": 2025-05-14,
+      "updatedAt": 2025-05-14,
       "children" : []
     },
     {
@@ -30,6 +32,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
+      "createdAt": 2025-05-14,
+      "updatedAt": 2025-05-14,
       "children" : [
           {
             "id": 3,
@@ -45,6 +49,8 @@
             "solutionType": "CONTRABASS",
             "createdBy": "admin",
             "updatedBy": "admin",
+            "createdAt": 2025-05-14,
+            "updatedAt": 2025-05-14,
             "children": [
                 {
                   "id": 4,
@@ -60,6 +66,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
+                  "createdAt": 2025-05-14,
+                  "updatedAt": 2025-05-14,
                   "children":[]
                 },
                 {
@@ -76,6 +84,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
+                  "createdAt": 2025-05-14,
+                  "updatedAt": 2025-05-14,
                   "children":[]
                 },
                 {
@@ -92,6 +102,8 @@
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
                   "updatedBy": "admin",
+                  "createdAt": 2025-05-14,
+                  "updatedAt": 2025-05-14,
                   "children":[]
                 }
             ]
@@ -113,6 +125,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
+      "createdAt": 2025-05-14,
+      "updatedAt": 2025-05-14,
       "children" : []
     },
     {
@@ -129,6 +143,8 @@
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
       "updatedBy": "admin",
+      "createdAt": 2025-05-14,
+      "updatedAt": 2025-05-14,
       "children" : []
     }
   ]
