@@ -44,7 +44,7 @@
             "path": "/contrabass/initialization/server-group",
             "solutionType": "CONTRABASS",
             "createdBy": "admin",
-            "updatedBy": "admin"
+            "updatedBy": "admin",
             "children": [
                 {
                   "id": 4,
