@@ -13,9 +13,7 @@
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
-      "createdAt" : 2025-04-16 01:37:28.000,
       "updatedBy": "admin",
-      "updatedAt": 2025-04-16 01:37:28.000,
       "children" : []
     },
     {
@@ -31,9 +29,7 @@
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
-      "createdAt": 2025-04-16 01:37:28.000,
       "updatedBy": "admin",
-      "updatedAt": 2025-04-16 01:37:28.000,
       "children" : [
           {
             "id": 3,
@@ -48,9 +44,7 @@
             "path": "/contrabass/initialization/server-group",
             "solutionType": "CONTRABASS",
             "createdBy": "admin",
-            "createdAt": 2025-04-16 01:37:28.000,
             "updatedBy": "admin"
-            "updatedAt": 2025-04-16 01:37:28.000,
             "children": [
                 {
                   "id": 4,
@@ -65,9 +59,8 @@
                   "path": "/contrabass/initialization/server-group",
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
-                  "createddAt": 2025-04-16 01:37:28.000,
                   "updatedBy": "admin",
-                  "updatedAt": 2025-04-16 01:37:28.000
+                  "children":[]
                 },
                 {
                   "id": 5,
@@ -82,9 +75,8 @@
                   "path": "/contrabass/initialization/server-group",
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
-                  "createddAt": 2025-04-16 01:37:28.000,
                   "updatedBy": "admin",
-                  "updatedAt": 2025-04-16 01:37:28.000
+                  "children":[]
                 },
                 {
                   "id": 6,
@@ -99,9 +91,8 @@
                   "path": "/contrabass/initialization/server-group",
                   "solutionType": "CONTRABASS",
                   "createdBy": "admin",
-                  "createdAt": 2025-04-16 01:37:28.000,
                   "updatedBy": "admin",
-                  "updatedAt": 2025-04-16 01:37:28.000
+                  "children":[]
                 },
             ]
           },
@@ -121,9 +112,7 @@
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
-      "createdAt": 2025-04-16 01:37:28.000,
       "updatedBy": "admin",
-      "updatedAt": 2025-04-16 01:37:28.000,
       "children" : []
     },
     {
@@ -139,9 +128,7 @@
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
       "createdBy": "admin",
-      "createdAt": 2025-04-16 01:37:28.000,
       "updatedBy": "admin",
-      "updatedAt": 2025-04-16 01:37:28.000,
       "children" : []
     }
   ]
