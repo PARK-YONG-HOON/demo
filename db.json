@@ -76,7 +76,7 @@
                   "namesEn": "Node Management",
                   "namesJp": "",
                   "description": "노드관리 메뉴",
-                  "status": 1,
+                  "status": 0,
                   "depth": 3,
                   "position": 2,
                   "parentId": 3,
