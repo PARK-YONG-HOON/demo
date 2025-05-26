@@ -99,10 +99,6 @@
       "parentId": null,
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
-      "createdBy": "admin",
-      "updatedBy": "admin",
-      "createdAt": "2025-05-14 08:22:34",
-      "updatedAt": "2025-05-14 08:22:34",
       "children" : []
     },
     {
@@ -117,10 +113,6 @@
       "parentId": null,
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
-      "createdBy": "admin",
-      "updatedBy": "admin",
-      "createdAt": "2025-05-14 08:22:34",
-      "updatedAt": "2025-05-14 08:22:34",
       "children" : []
     }
   ]
