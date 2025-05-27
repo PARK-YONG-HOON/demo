@@ -6,7 +6,7 @@
       "namesEn": "Dashboard",
       "namesJp" : "",
       "description": "대시보드 화면",
-      "status": 1,
+      "status": true,
       "depth": 1,
       "position": 0,
       "parentId": null,
