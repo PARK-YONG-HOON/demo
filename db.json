@@ -9,7 +9,7 @@
       "status": 1,
       "depth": 1,
       "position": 0,
-      "parentId": null,
+      "parentId": NULL,
       "path": "/contrabass/initialization/server-group",
       "solutionType": "CONTRABASS",
       "children" : []
